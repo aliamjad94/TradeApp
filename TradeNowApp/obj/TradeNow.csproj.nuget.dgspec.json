@@ -1,0 +1,113 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\TradeNow.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNowLibrary\\TradeNowLibrary.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNowLibrary\\TradeNowLibrary.csproj",
+        "projectName": "TradeNowLibrary",
+        "projectPath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNowLibrary\\TradeNowLibrary.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\TradeNow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\TradeNow.csproj",
+        "projectName": "TradeNow",
+        "projectPath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\TradeNow.csproj",
+        "packagesPath": "C:\\Users\\ali.amjad\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ali.amjad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNowLibrary\\TradeNowLibrary.csproj": {
+                "projectPath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNowLibrary\\TradeNowLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "DataGridExtensions": {
+              "target": "Package",
+              "version": "[2.5.13, )"
+            },
+            "MaterialSkin": {
+              "target": "Package",
+              "version": "[0.2.1, )",
+              "noWarn": [
+                "NU1701"
+              ]
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.Linq.Dynamic.Core": {
+              "target": "Package",
+              "version": "[1.2.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
