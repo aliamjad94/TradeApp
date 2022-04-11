@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xck4tvMe00uWE+OJxKsqtbc7MRkDz7TNQk2yLzvInFTYUA1zE/aKHOlJzQD6bw7+gDfmykCvA8q/QTdAsXGs+Q==",
+  "dgSpecHash": "19tEr8+rKvEyFKPBkpI1UVbOzxtA4zPXh5/+nEFf2P1y7R2XFFciRDu7OZQvdfDiTjTGJT2aZCyg/zYeQmwBaA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\TradeNow.csproj",
+  "projectFilePath": "E:\\JGit\\TradeApp\\TradeNowApp\\TradeNow.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ali.amjad\\.nuget\\packages\\datagridextensions\\2.5.13\\datagridextensions.2.5.13.nupkg.sha512",
     "C:\\Users\\ali.amjad\\.nuget\\packages\\materialskin\\0.2.1\\materialskin.0.2.1.nupkg.sha512",

@@ -4,7 +4,7 @@ namespace TradeNowLibrary
 {
     public interface IOrderWriterService
     {
-        void saveOrder(TraderTicket data);
+        void saveOrder(dynamic saved);
 
         dynamic readOrder();
 

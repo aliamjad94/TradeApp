@@ -28,3 +28,20 @@ C:\Users\ali.amjad\source\repos\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibr
 C:\Users\ali.amjad\source\repos\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.csproj.CopyComplete
 C:\Users\ali.amjad\source\repos\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.dll
 C:\Users\ali.amjad\source\repos\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.pdb
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\bin\Debug\TradeNowLibrary.dll
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\bin\Debug\TradeNowLibrary.pdb
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\bin\Debug\Newtonsoft.Json.dll
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\bin\Debug\Newtonsoft.Json.xml
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.csproj.AssemblyReference.cache
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.csproj.CoreCompileInputs.cache
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.csproj.CopyComplete
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.dll
+F:\OneDrive\OneDrive - Logiciel Services LLC\Practice_Programs\iTradeNow\TradeNowLibrary\obj\Debug\TradeNowLibrary.pdb
+E:\JGit\TradeApp\TradeNowLibrary\bin\Debug\TradeNowLibrary.dll
+E:\JGit\TradeApp\TradeNowLibrary\bin\Debug\TradeNowLibrary.pdb
+E:\JGit\TradeApp\TradeNowLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\JGit\TradeApp\TradeNowLibrary\obj\Debug\TradeNowLibrary.csproj.AssemblyReference.cache
+E:\JGit\TradeApp\TradeNowLibrary\obj\Debug\TradeNowLibrary.csproj.CoreCompileInputs.cache
+E:\JGit\TradeApp\TradeNowLibrary\obj\Debug\TradeNowLibrary.csproj.CopyComplete
+E:\JGit\TradeApp\TradeNowLibrary\obj\Debug\TradeNowLibrary.dll
+E:\JGit\TradeApp\TradeNowLibrary\obj\Debug\TradeNowLibrary.pdb

@@ -337,11 +337,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\TradeNow.csproj",
+      "projectUniqueName": "E:\\JGit\\TradeApp\\TradeNowApp\\TradeNow.csproj",
       "projectName": "TradeNow",
-      "projectPath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\TradeNow.csproj",
+      "projectPath": "E:\\JGit\\TradeApp\\TradeNowApp\\TradeNow.csproj",
       "packagesPath": "C:\\Users\\ali.amjad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNow\\obj\\",
+      "outputPath": "E:\\JGit\\TradeApp\\TradeNowApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -362,8 +362,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNowLibrary\\TradeNowLibrary.csproj": {
-              "projectPath": "C:\\Users\\ali.amjad\\source\\repos\\iTradeNow\\TradeNowLibrary\\TradeNowLibrary.csproj"
+            "E:\\JGit\\TradeApp\\TradeNowLibrary\\TradeNowLibrary.csproj": {
+              "projectPath": "E:\\JGit\\TradeApp\\TradeNowLibrary\\TradeNowLibrary.csproj"
             }
           }
         }

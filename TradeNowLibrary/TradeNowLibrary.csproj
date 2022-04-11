@@ -46,7 +46,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="IOrderWriterService.cs" />
-    <Compile Include="SerializerDeserializer.cs" />
     <Compile Include="TradeNowLibraryDoc.cs" />
     <Compile Include="OrderWriterService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

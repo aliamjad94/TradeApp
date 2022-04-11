@@ -1,17 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Newtonsoft.Json;
-using System.Dynamic;
-using System.IO;
 using TradeNowLibrary;
 using MaterialSkin.Controls;
-
+using Newtonsoft.Json.Linq;
 
 namespace TradeNow
 {
@@ -36,11 +28,11 @@ namespace TradeNow
 
         private void createOrder_Click(object sender, EventArgs e)
         {
-            if (orderBox.Text != "Select Order..." 
-                && symbolBox.Text != null 
-                && quantityBox.Text != null 
-                && routeBox.Text != null 
-                && ordertypeBox.Text != null)
+            if (!(string.Compare(orderBox.Text, "Select Order...") == 0)
+                && !string.IsNullOrEmpty(symbolBox.Text) 
+                && !string.IsNullOrEmpty(quantityBox.Text)
+                && !string.IsNullOrEmpty(routeBox.Text)
+                && !string.IsNullOrEmpty(ordertypeBox.Text))
             {
 
                 TraderTicket newOrder = new TraderTicket
@@ -56,11 +48,14 @@ namespace TradeNow
                     OrderDate = dateView.Text
                 };
 
-                orderWriterService.saveOrder(newOrder);
+                JObject jTicket = JObject.FromObject(newOrder);
+
+                orderWriterService.saveOrder(jTicket);
 
                 // Read Data from Json file //
 
                 var readOnGrid = orderWriterService.readOrder();
+
                 dataGridView1.DataSource = readOnGrid;
 
                 // Increasing index of OrderID //

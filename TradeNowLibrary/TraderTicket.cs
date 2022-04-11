@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json.Linq;
 
 namespace TradeNowLibrary
 {
@@ -18,5 +19,4 @@ namespace TradeNowLibrary
         public string Tif { get; set; }
         public string OrderDate { get; set; }
     }
-    
 }

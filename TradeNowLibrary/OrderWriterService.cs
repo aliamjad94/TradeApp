@@ -16,30 +16,22 @@ namespace TradeNowLibrary
 
     {
         private readonly IOrderWriterService orderWriterService;
-        public void saveOrder(TraderTicket data)
+
+        public void saveOrder(dynamic saved)
         {
-            var Serializer = new SerializerDeserializer();
+            string FileName = "jsondata.json";
 
-            // Writing new Order Data into Json File //
+            var json = JsonConvert.DeserializeObject<dynamic>(File.ReadAllText(FileName));
 
-            string jsonFile = @"C:\Users\ali.amjad\source\repos\iTradeNow\TradeNow\jsondata.json";
+            json.Add(saved);
 
-            var dataSerialized = Serializer.ConvertObjectToString(data);
-
-            File.WriteAllText(jsonFile, dataSerialized);
-
+            File.WriteAllText(FileName, JsonConvert.SerializeObject(json));
         }
 
         public dynamic readOrder()
         {
-            var Deserializer = new SerializerDeserializer();
-
-            string objectString = File.ReadAllText(@"C:\Users\ali.amjad\source\repos\iTradeNow\TradeNow\jsondata.json");
-
-            var dataDeSerialized = Deserializer.ConvertStringToObject<TraderTicket>(objectString, "TradeNowLibrary.TraderTicket");
-
-            return dataDeSerialized;
+            var newvar = JArray.Parse(File.ReadAllText("jsondata.json"));
+            return newvar;
         }
-
     }
 }
