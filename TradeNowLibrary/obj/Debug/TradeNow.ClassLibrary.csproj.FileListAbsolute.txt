@@ -1,0 +1,9 @@
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\bin\Debug\TradeNowLibrary.dll
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\bin\Debug\TradeNowLibrary.pdb
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\obj\Debug\TradeNow.ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\obj\Debug\TradeNow.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\obj\Debug\TradeNow.ClassLibrary.csproj.CopyComplete
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\obj\Debug\TradeNowLibrary.dll
+C:\Users\ali.amjad\source\repos\TradeNowLibrary\obj\Debug\TradeNowLibrary.pdb
