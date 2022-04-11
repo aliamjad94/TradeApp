@@ -1,0 +1,8 @@
+E:\JGit\TradeApp\TradeNowLibrary\bin\Release\TradeNowLibrary.dll
+E:\JGit\TradeApp\TradeNowLibrary\bin\Release\TradeNowLibrary.pdb
+E:\JGit\TradeApp\TradeNowLibrary\bin\Release\Newtonsoft.Json.dll
+E:\JGit\TradeApp\TradeNowLibrary\obj\Release\TradeNowLibrary.csproj.AssemblyReference.cache
+E:\JGit\TradeApp\TradeNowLibrary\obj\Release\TradeNowLibrary.csproj.CoreCompileInputs.cache
+E:\JGit\TradeApp\TradeNowLibrary\obj\Release\TradeNowLibrary.csproj.CopyComplete
+E:\JGit\TradeApp\TradeNowLibrary\obj\Release\TradeNowLibrary.dll
+E:\JGit\TradeApp\TradeNowLibrary\obj\Release\TradeNowLibrary.pdb

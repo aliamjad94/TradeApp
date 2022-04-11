@@ -1,16 +1,16 @@
-﻿using System;
+﻿using MaterialSkin.Controls;
+using Newtonsoft.Json.Linq;
+using System;
 using System.Drawing;
 using System.Windows.Forms;
 using TradeNowLibrary;
-using MaterialSkin.Controls;
-using Newtonsoft.Json.Linq;
 
 namespace TradeNow
 {
     public partial class TradeOrder : MaterialForm
     {
         private readonly IOrderWriterService orderWriterService;
-   
+
         public TradeOrder(IOrderWriterService orderWriterService)
         {
             InitializeComponent();
@@ -29,7 +29,7 @@ namespace TradeNow
         private void createOrder_Click(object sender, EventArgs e)
         {
             if (!(string.Compare(orderBox.Text, "Select Order...") == 0)
-                && !string.IsNullOrEmpty(symbolBox.Text) 
+                && !string.IsNullOrEmpty(symbolBox.Text)
                 && !string.IsNullOrEmpty(quantityBox.Text)
                 && !string.IsNullOrEmpty(routeBox.Text)
                 && !string.IsNullOrEmpty(ordertypeBox.Text))
@@ -71,8 +71,8 @@ namespace TradeNow
 
             else
             {
-             MessageBox.Show("Please Enter All Required attributes!");
-            }            
+                MessageBox.Show("Please Enter All Required attributes!");
+            }
         }
 
         // Resetting values when New Order Button is clicked //

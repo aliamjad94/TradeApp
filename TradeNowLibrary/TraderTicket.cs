@@ -1,13 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Newtonsoft.Json.Linq;
-
-namespace TradeNowLibrary
+﻿namespace TradeNowLibrary
 {
-    public class TraderTicket 
+    public class TraderTicket
     {
         public string OrderID { get; set; }
         public string Order { get; set; }
