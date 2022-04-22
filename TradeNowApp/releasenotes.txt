@@ -1,0 +1,153 @@
+	.editorconfig	110
+.vs
+TradeNow
+DesignTimeBuild
+	.dtbcache.v2	87366
+v17
+	.futdcache.v1	469
+	.suo	91136
+TestStore
+0
+	000.testlog	597
+	testlog.manifest	24
+bin
+Debug
+net5.0-windows
+	DataGridExtensions.dll	127648
+	jsondata.json	1544
+	MaterialSkin.dll	587776
+	Microsoft.Extensions.DependencyInjection.Abstractions.dll	45680
+	Microsoft.Extensions.DependencyInjection.dll	83072
+	Microsoft.Xaml.Behaviors.dll	145272
+	Newtonsoft.Json.dll	695336
+	ordercount.txt	7
+	System.Linq.Dynamic.Core.dll	162304
+	System.Runtime.CompilerServices.Unsafe.dll	18024
+	TradeNow.deps.json	6041
+	TradeNow.dll	21504
+	TradeNow.exe	125952
+	TradeNow.pdb	16564
+	TradeNow.runtimeconfig.dev.json	264
+	TradeNow.runtimeconfig.json	154
+	TradeNowLibrary.dll	7168
+	TradeNowLibrary.pdb	28160
+Release
+net5.0-windows
+	DataGridExtensions.dll	127648
+	MaterialSkin.dll	587776
+	Microsoft.Extensions.DependencyInjection.Abstractions.dll	45680
+	Microsoft.Extensions.DependencyInjection.dll	83072
+	Microsoft.Xaml.Behaviors.dll	145272
+	Newtonsoft.Json.dll	695336
+	System.Linq.Dynamic.Core.dll	162304
+	System.Runtime.CompilerServices.Unsafe.dll	18024
+	TradeNow.deps.json	6041
+	TradeNow.dll	20992
+	TradeNow.exe	125952
+	TradeNow.pdb	16188
+	TradeNow.runtimeconfig.dev.json	264
+	TradeNow.runtimeconfig.json	260
+	TradeNowLibrary.dll	7168
+	TradeNowLibrary.pdb	28160
+	gitignore	21
+	jsondata.json	918
+	LICENSE	18431
+	LoginForm.cs	1919
+	loginForm.Designer.cs	5873
+	loginForm.resx	2816
+obj
+Debug
+net5.0-windows
+	.NETCoreApp,Version=v5.0.AssemblyAttributes.cs	190
+	apphost.exe	125952
+ref
+	TradeNow.dll	6656
+refint
+	TradeNow.dll	6656
+	TradeNow.AssemblyInfo.cs	1156
+	TradeNow.AssemblyInfoInputs.cache	42
+	TradeNow.assets.cache	4142
+	TradeNow.csproj.AssemblyReference.cache	240346
+	TradeNow.csproj.BuildWithSkipAnalyzers	0
+	TradeNow.csproj.CopyComplete	0
+	TradeNow.csproj.CoreCompileInputs.cache	42
+	TradeNow.csproj.FileListAbsolute.txt	17456
+	TradeNow.csproj.GenerateResource.cache	114
+	TradeNow.designer.deps.json	5295
+	TradeNow.designer.runtimeconfig.json	484
+	TradeNow.dll	21504
+	TradeNow.Form1.resources	180
+	TradeNow.GeneratedMSBuildEditorConfig.editorconfig	695
+	TradeNow.genruntimeconfig.cache	42
+	TradeNow.loginForm.resources	180
+	TradeNow.pdb	16564
+	TradeNow.TradeOrder.resources	180
+	project.assets.json	16931
+	project.nuget.cache	1352
+Release
+net5.0-windows
+	.NETCoreApp,Version=v5.0.AssemblyAttributes.cs	190
+	apphost.exe	125952
+ref
+	TradeNow.dll	6656
+refint
+	TradeNow.dll	6656
+	TradeNow.AssemblyInfo.cs	1158
+	TradeNow.AssemblyInfoInputs.cache	42
+	TradeNow.assets.cache	4142
+	TradeNow.csproj.AssemblyReference.cache	121736
+	TradeNow.csproj.BuildWithSkipAnalyzers	0
+	TradeNow.csproj.CopyComplete	0
+	TradeNow.csproj.CoreCompileInputs.cache	42
+	TradeNow.csproj.FileListAbsolute.txt	2544
+	TradeNow.csproj.GenerateResource.cache	114
+	TradeNow.dll	20992
+	TradeNow.GeneratedMSBuildEditorConfig.editorconfig	695
+	TradeNow.genruntimeconfig.cache	42
+	TradeNow.LoginForm.resources	180
+	TradeNow.pdb	16188
+	TradeNow.TradeOrder.resources	180
+	TradeNow.csproj.nuget.dgspec.json	3768
+	TradeNow.csproj.nuget.g.props	1607
+	TradeNow.csproj.nuget.g.targets	150
+packages
+Newtonsoft.Json.13.0.1
+	.signature.p7s	18122
+lib
+net20
+	Newtonsoft.Json.dll	571944
+	Newtonsoft.Json.xml	606581
+net35
+	Newtonsoft.Json.dll	506920
+	Newtonsoft.Json.xml	551673
+net40
+	Newtonsoft.Json.dll	576040
+	Newtonsoft.Json.xml	563592
+net45
+	Newtonsoft.Json.dll	701992
+	Newtonsoft.Json.xml	710224
+netstandard1.0
+	Newtonsoft.Json.dll	670760
+	Newtonsoft.Json.xml	688869
+netstandard1.3
+	Newtonsoft.Json.dll	689704
+	Newtonsoft.Json.xml	697075
+netstandard2.0
+	Newtonsoft.Json.dll	695336
+	Newtonsoft.Json.xml	708936
+	LICENSE.md	1104
+	Newtonsoft.Json.13.0.1.nupkg	2065787
+	packageIcon.png	8956
+	Program.cs	1496
+Properties
+DataSources
+	TradeNowLibrary.TraderClass.datasource	597
+	TradeNowLibrary.TraderTicket.datasource	599
+	releasenotes.txt	0
+	TradeNow.csproj	931
+	TradeNow.csproj.user	368
+	TradeNow.sln	1863
+	TradeNowDoc.cs	538
+	TradeOrder.cs	3415
+	TradeOrder.Designer.cs	27103
+	TradeOrder.resx	3440
